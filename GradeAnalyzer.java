@@ -1,10 +1,11 @@
 /**
- * GradeAnalyzer.java
- * A program that analyzes student scores for a university registrar
- */
+Name: Ann C.
+Class: CSCI-255
+Program name: GradeAnalyzer.java
+About: A program that analyzes student scores for a university registrar
+*/
 import java.util.Scanner;
 public class GradeAnalyzer {
-    
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String userInput = "";
