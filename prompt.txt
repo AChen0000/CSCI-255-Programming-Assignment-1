@@ -1,0 +1,13 @@
+You are writing a grade analysis program for a university registrar.
+The program manages scores for a class of up to 30 students. 
+It must store, compute, and report on those scores using only arrays, 
+loops, selection statements, and methods. No ArrayList, no Collections,
+no Math class (except Math.round), no sorting library.
+
+Hard-code the following 20 scores into an array in main. 
+Your program must work correctly if that array grows to any size up to 30.
+
+int[] scores = {88, 72, 95, 61, 83, 74, 91, 55, 78, 89,
+66, 94, 70, 82, 77, 58, 87, 93, 69, 75};
+
+Create a complete Java program named AIGradeAnalyzer.java.
